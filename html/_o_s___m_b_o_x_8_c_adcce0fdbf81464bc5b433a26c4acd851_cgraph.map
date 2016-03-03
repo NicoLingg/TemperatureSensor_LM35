@@ -1,0 +1,5 @@
+<map id="OSMboxPend" name="OSMboxPend">
+<area shape="rect" id="node2" href="$_o_s___c_o_r_e_8_c.html#a72ffa04010427c899c109336e1de0046" title="OS_EventTaskWait" alt="" coords="158,5,293,32"/>
+<area shape="rect" id="node3" href="$_o_s___c_o_r_e_8_c.html#a5d641c1c441f4be4896745deafd66292" title="OS_Sched" alt="" coords="183,56,268,83"/>
+<area shape="rect" id="node4" href="$_o_s___c_o_r_e_8_c.html#a75a9013fec01a5913d8ef1e0bf1536b2" title="OS_EventTO" alt="" coords="177,107,274,133"/>
+</map>

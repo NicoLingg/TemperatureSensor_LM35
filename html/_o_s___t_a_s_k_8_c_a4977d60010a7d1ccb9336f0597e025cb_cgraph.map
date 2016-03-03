@@ -1,0 +1,7 @@
+<map id="OSTaskCreateExt" name="OSTaskCreateExt">
+<area shape="rect" id="node2" href="$os__cpu__c_8c.html#ad355b6de1b50c5191b12fd8a417792f1" title="OSTaskStkInit" alt="" coords="181,5,288,32"/>
+<area shape="rect" id="node3" href="$_o_s___c_o_r_e_8_c.html#a95e9bc6f0d0dfe29f860cd5a5480fea4" title="OS_TCBInit" alt="" coords="189,56,280,83"/>
+<area shape="rect" id="node6" href="$_o_s___c_o_r_e_8_c.html#a5d641c1c441f4be4896745deafd66292" title="OS_Sched" alt="" coords="192,107,277,133"/>
+<area shape="rect" id="node4" href="$os__cpu__c_8c.html#ad175126f54000a30bf15a47ba68cffc4" title="OSTCBInitHook" alt="" coords="349,31,462,57"/>
+<area shape="rect" id="node5" href="$os__cpu__c_8c.html#ae1fb9d8cc4bd490553efd061f0a3f68e" title="OSTaskCreateHook" alt="" coords="337,81,474,108"/>
+</map>

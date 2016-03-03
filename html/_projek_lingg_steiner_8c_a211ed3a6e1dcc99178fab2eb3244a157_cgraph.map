@@ -1,0 +1,13 @@
+<map id="TLCD" name="TLCD">
+<area shape="rect" id="node2" href="$_o_s___m_b_o_x_8_c.html#adcce0fdbf81464bc5b433a26c4acd851" title="OSMboxPend" alt="" coords="122,107,225,133"/>
+<area shape="rect" id="node6" href="$_projek_lingg_steiner_8c.html#a0a3c74c2e98710debac8f4c36502576f" title="Funktion zur Ausgabe von Text an das LCD. " alt="" coords="136,183,211,209"/>
+<area shape="rect" id="node11" href="$_o_s___t_i_m_e_8_c.html#a91cd3ab53ba9447783c14e4ba21394d0" title="OSTimeDlyHMSM" alt="" coords="109,31,237,57"/>
+<area shape="rect" id="node3" href="$_o_s___c_o_r_e_8_c.html#a72ffa04010427c899c109336e1de0046" title="OS_EventTaskWait" alt="" coords="286,107,421,133"/>
+<area shape="rect" id="node4" href="$_o_s___c_o_r_e_8_c.html#a5d641c1c441f4be4896745deafd66292" title="OS_Sched" alt="" coords="483,81,568,108"/>
+<area shape="rect" id="node5" href="$_o_s___c_o_r_e_8_c.html#a75a9013fec01a5913d8ef1e0bf1536b2" title="OS_EventTO" alt="" coords="305,56,402,83"/>
+<area shape="rect" id="node7" href="$lc798x_8c.html#a43fd8a89dbc4006d2d0121106bac3d47" title="lcd_set_cursor" alt="" coords="300,208,407,235"/>
+<area shape="rect" id="node8" href="$lc798x_8c.html#a08d0b7df8efda0c3b5af2955cccae65f" title="lc798x_register" alt="" coords="470,208,581,235"/>
+<area shape="rect" id="node9" href="$lc798x_8c.html#aadaccfff3a85ee0924556a54fa9d3014" title="lcd_write" alt="" coords="630,208,703,235"/>
+<area shape="rect" id="node10" href="$lc798x_8c.html#a6df91edebc1cc2015e9d66bf34b20d92" title="lc798x_wait_for_ready" alt="" coords="753,208,903,235"/>
+<area shape="rect" id="node12" href="$_o_s___t_i_m_e_8_c.html#a76aba5c2398593fbb4389105c45457f5" title="OSTimeDly" alt="" coords="309,5,397,32"/>
+</map>

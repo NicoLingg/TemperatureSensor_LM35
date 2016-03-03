@@ -1,0 +1,8 @@
+<map id="OS_EventWaitListInit" name="OS_EventWaitListInit">
+<area shape="rect" id="node2" href="$_o_s___m_b_o_x_8_c.html#ad9736990f52a63a3f1c801b88e2ea9a4" title="OSMboxCreate" alt="" coords="202,5,313,32"/>
+<area shape="rect" id="node5" href="$_o_s___m_u_t_e_x_8_c.html#abe5f42e9311265ad71e685a831c11a4e" title="OSMutexCreate" alt="" coords="200,56,315,83"/>
+<area shape="rect" id="node6" href="$_o_s___q_8_c.html#a09733715ea02098f9fe6b0cda12fcc90" title="OSQCreate" alt="" coords="213,107,302,133"/>
+<area shape="rect" id="node7" href="$_o_s___s_e_m_8_c.html#a88a8aaaed348084594298abe359d4afa" title="OSSemCreate" alt="" coords="204,157,311,184"/>
+<area shape="rect" id="node3" href="$_projek_lingg_steiner_8c.html#a74915082f00527387b46fd8fcd39cae3" title="Task: TCreateTasks " alt="" coords="363,5,466,32"/>
+<area shape="rect" id="node4" href="$_projek_lingg_steiner_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main. " alt="" coords="515,5,565,32"/>
+</map>

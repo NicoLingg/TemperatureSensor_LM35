@@ -1,0 +1,9 @@
+<map id="OS_EventTO" name="OS_EventTO">
+<area shape="rect" id="node2" href="$_o_s___m_b_o_x_8_c.html#adcce0fdbf81464bc5b433a26c4acd851" title="OSMboxPend" alt="" coords="154,5,257,32"/>
+<area shape="rect" id="node6" href="$_o_s___m_u_t_e_x_8_c.html#ac74b00146296ab6c24c2dad396f3cbab" title="OSMutexPend" alt="" coords="152,56,259,83"/>
+<area shape="rect" id="node7" href="$_o_s___q_8_c.html#ad1558510fafd81b70cf8e38d18ebd3a4" title="OSQPend" alt="" coords="165,107,246,133"/>
+<area shape="rect" id="node8" href="$_o_s___s_e_m_8_c.html#a005b48e0ec0b7a99265a405c80462caf" title="OSSemPend" alt="" coords="156,157,255,184"/>
+<area shape="rect" id="node3" href="$_projek_lingg_steiner_8c.html#a211ed3a6e1dcc99178fab2eb3244a157" title="Task: TLCD " alt="" coords="307,5,362,32"/>
+<area shape="rect" id="node4" href="$_projek_lingg_steiner_8c.html#a74915082f00527387b46fd8fcd39cae3" title="Task: TCreateTasks " alt="" coords="411,5,514,32"/>
+<area shape="rect" id="node5" href="$_projek_lingg_steiner_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main. " alt="" coords="563,5,613,32"/>
+</map>

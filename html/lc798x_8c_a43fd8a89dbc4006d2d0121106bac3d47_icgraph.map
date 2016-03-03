@@ -1,0 +1,11 @@
+<map id="lcd_set_cursor" name="lcd_set_cursor">
+<area shape="rect" id="node2" href="$lc798x_8h.html#a7327a2088a6342e03a124c2335c73520" title="lcd_newline" alt="" coords="161,5,250,32"/>
+<area shape="rect" id="node3" href="$lc798x_8h.html#ac627815ecf4cb6dab2e7f19303bebc89" title="lcd_putchar" alt="" coords="314,31,403,57"/>
+<area shape="rect" id="node4" href="$lc798x_8h.html#ae4dc23fdf26f3b8b0db253f431fe950d" title="lcd_clear_screen" alt="" coords="299,107,419,133"/>
+<area shape="rect" id="node8" href="$_projek_lingg_steiner_8c.html#a0a3c74c2e98710debac8f4c36502576f" title="Funktion zur Ausgabe von Text an das LCD. " alt="" coords="168,157,243,184"/>
+<area shape="rect" id="node5" href="$_projek_lingg_steiner_8c.html#a9d2717ed70585c74e4cfcf7e9586b305" title="Initialausgabe des LCDs. " alt="" coords="467,56,600,83"/>
+<area shape="rect" id="node7" href="$_projek_lingg_steiner_8c.html#aa53c9d40f3aa552a9974cd55ac510cb3" title="Initialisierung des LCDs. " alt="" coords="498,107,569,133"/>
+<area shape="rect" id="node6" href="$_projek_lingg_steiner_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main. " alt="" coords="648,107,699,133"/>
+<area shape="rect" id="node9" href="$_projek_lingg_steiner_8c.html#a211ed3a6e1dcc99178fab2eb3244a157" title="Task: TLCD " alt="" coords="331,157,386,184"/>
+<area shape="rect" id="node10" href="$_projek_lingg_steiner_8c.html#a74915082f00527387b46fd8fcd39cae3" title="Task: TCreateTasks " alt="" coords="482,157,585,184"/>
+</map>

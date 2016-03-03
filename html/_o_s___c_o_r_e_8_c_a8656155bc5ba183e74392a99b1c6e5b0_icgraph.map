@@ -1,0 +1,16 @@
+<map id="OS_EventTaskRdy" name="OS_EventTaskRdy">
+<area shape="rect" id="node2" href="$_o_s___m_b_o_x_8_c.html#a3be227c0279179be0868ed55ba3f11c0" title="OSMboxDel" alt="" coords="199,5,291,32"/>
+<area shape="rect" id="node3" href="$_o_s___m_b_o_x_8_c.html#afcf3e6fd35027fe1dfa68220de5b9504" title="OSMboxPost" alt="" coords="195,56,295,83"/>
+<area shape="rect" id="node7" href="$_o_s___m_b_o_x_8_c.html#a15c2b4ff85c09609ff2d855e8af18e69" title="OSMboxPostOpt" alt="" coords="185,107,306,133"/>
+<area shape="rect" id="node8" href="$_o_s___m_u_t_e_x_8_c.html#ae7026d22363a5dc93b8e9d26abc759de" title="OSMutexDel" alt="" coords="197,157,293,184"/>
+<area shape="rect" id="node9" href="$_o_s___m_u_t_e_x_8_c.html#ad90c80a6ce0a8bb176ba9e48f894fbf7" title="OSMutexPost" alt="" coords="193,208,297,235"/>
+<area shape="rect" id="node10" href="$_o_s___q_8_c.html#abafd22f1c5f12112ff5a8c3d8b52af05" title="OSQDel" alt="" coords="210,259,281,285"/>
+<area shape="rect" id="node11" href="$_o_s___q_8_c.html#ae288519da41c1ad835becf9a33cff16a" title="OSQPost" alt="" coords="206,309,285,336"/>
+<area shape="rect" id="node12" href="$_o_s___q_8_c.html#a92892d5e47ca06fb38645a7a1911fcf9" title="OSQPostFront" alt="" coords="191,360,299,387"/>
+<area shape="rect" id="node13" href="$_o_s___q_8_c.html#ab74bd4023032b41bad0f17cdc7255b3f" title="OSQPostOpt" alt="" coords="196,411,295,437"/>
+<area shape="rect" id="node14" href="$_o_s___s_e_m_8_c.html#ad6fa163f3c06b9d32f88e1f37d32e606" title="OSSemDel" alt="" coords="202,461,289,488"/>
+<area shape="rect" id="node15" href="$_o_s___s_e_m_8_c.html#a972bf8ea56228c25b4170695248727d6" title="OSSemPost" alt="" coords="198,512,293,539"/>
+<area shape="rect" id="node4" href="$_projek_lingg_steiner_8c.html#abfd6b311d3b7a98e08b602ff63c721ab" title="Task: TMessung " alt="" coords="355,56,437,83"/>
+<area shape="rect" id="node5" href="$_projek_lingg_steiner_8c.html#a74915082f00527387b46fd8fcd39cae3" title="Task: TCreateTasks " alt="" coords="486,56,589,83"/>
+<area shape="rect" id="node6" href="$_projek_lingg_steiner_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main. " alt="" coords="637,56,688,83"/>
+</map>

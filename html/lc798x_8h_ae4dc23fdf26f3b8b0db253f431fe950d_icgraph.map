@@ -1,0 +1,5 @@
+<map id="lcd_clear_screen" name="lcd_clear_screen">
+<area shape="rect" id="node2" href="$_projek_lingg_steiner_8c.html#a9d2717ed70585c74e4cfcf7e9586b305" title="Initialausgabe des LCDs. " alt="" coords="173,5,307,32"/>
+<area shape="rect" id="node4" href="$_projek_lingg_steiner_8c.html#aa53c9d40f3aa552a9974cd55ac510cb3" title="Initialisierung des LCDs. " alt="" coords="205,56,275,83"/>
+<area shape="rect" id="node3" href="$_projek_lingg_steiner_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main. " alt="" coords="355,31,405,57"/>
+</map>

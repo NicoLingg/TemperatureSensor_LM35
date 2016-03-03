@@ -1,0 +1,17 @@
+<map id="Projekt LinggSteiner/uCOS_II.c" name="Projekt LinggSteiner/uCOS_II.c">
+<area shape="rect" id="node2" href="$includes_8h.html" title="includes.h" alt="" coords="499,171,580,197"/>
+<area shape="rect" id="node16" href="$_o_s___c_o_r_e_8_c.html" title="os_core.c" alt="" coords="130,96,208,123"/>
+<area shape="rect" id="node17" href="$_o_s___f_l_a_g_8_c.html" title="os_flag.c" alt="" coords="233,96,308,123"/>
+<area shape="rect" id="node18" href="$_o_s___m_b_o_x_8_c.html" title="os_mbox.c" alt="" coords="333,96,419,123"/>
+<area shape="rect" id="node19" href="$_o_s___m_e_m_8_c.html" title="os_mem.c" alt="" coords="444,96,527,123"/>
+<area shape="rect" id="node20" href="$_o_s___m_u_t_e_x_8_c.html" title="os_mutex.c" alt="" coords="551,96,641,123"/>
+<area shape="rect" id="node21" href="$_o_s___q_8_c.html" title="os_q.c" alt="" coords="665,96,727,123"/>
+<area shape="rect" id="node22" href="$_o_s___s_e_m_8_c.html" title="os_sem.c" alt="" coords="751,96,829,123"/>
+<area shape="rect" id="node23" href="$_o_s___t_a_s_k_8_c.html" title="os_task.c" alt="" coords="854,96,932,123"/>
+<area shape="rect" id="node24" href="$_o_s___t_i_m_e_8_c.html" title="os_time.c" alt="" coords="957,96,1035,123"/>
+<area shape="rect" id="node8" href="$lc798x_8h.html" title="lc798x.h" alt="" coords="143,245,213,272"/>
+<area shape="rect" id="node12" href="$os__cpu_8h.html" title="os_cpu.h" alt="" coords="711,245,785,272"/>
+<area shape="rect" id="node13" href="$os__cfg_8h.html" title="os_cfg.h" alt="" coords="810,245,880,272"/>
+<area shape="rect" id="node14" href="$avr__isr_8h.html" title="avr_isr.h" alt="" coords="905,245,975,272"/>
+<area shape="rect" id="node15" href="$u_c_o_s___i_i_8_h.html" title="uCOS_II.H" alt="" coords="1000,245,1083,272"/>
+</map>

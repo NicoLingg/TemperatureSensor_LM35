@@ -1,0 +1,7 @@
+<map id="OSInit" name="OSInit">
+<area shape="rect" id="node2" href="$os__cpu__c_8c.html#a74409555be699fa395c33669e2647ec6" title="OSInitHookBegin" alt="" coords="113,5,234,32"/>
+<area shape="rect" id="node3" href="$_o_s___f_l_a_g_8_c.html#a0fe3aa6a8a4e8af4c3c87a51dc15d187" title="OS_FlagInit" alt="" coords="128,56,219,83"/>
+<area shape="rect" id="node4" href="$_o_s___m_e_m_8_c.html#af1a3563017f40e8bfea67fe5bc5dd43d" title="OS_MemInit" alt="" coords="126,107,221,133"/>
+<area shape="rect" id="node5" href="$_o_s___q_8_c.html#a61641feff32e6bde0adb8fe1fb5e1e3f" title="OS_QInit" alt="" coords="136,157,211,184"/>
+<area shape="rect" id="node6" href="$os__cpu__c_8c.html#a8348f3a73c1b392f6c410e191887b401" title="OSInitHookEnd" alt="" coords="118,208,229,235"/>
+</map>

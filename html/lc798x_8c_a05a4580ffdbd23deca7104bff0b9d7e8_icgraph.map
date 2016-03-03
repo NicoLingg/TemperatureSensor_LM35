@@ -1,0 +1,8 @@
+<map id="lcd_set_layout" name="lcd_set_layout">
+<area shape="rect" id="node2" href="$lc798x_8h.html#a7327a2088a6342e03a124c2335c73520" title="lcd_newline" alt="" coords="175,5,265,32"/>
+<area shape="rect" id="node4" href="$lc798x_8h.html#ae4dc23fdf26f3b8b0db253f431fe950d" title="lcd_clear_screen" alt="" coords="160,56,280,83"/>
+<area shape="rect" id="node3" href="$lc798x_8h.html#ac627815ecf4cb6dab2e7f19303bebc89" title="lcd_putchar" alt="" coords="350,5,439,32"/>
+<area shape="rect" id="node5" href="$_projek_lingg_steiner_8c.html#a9d2717ed70585c74e4cfcf7e9586b305" title="Initialausgabe des LCDs. " alt="" coords="328,56,461,83"/>
+<area shape="rect" id="node7" href="$_projek_lingg_steiner_8c.html#aa53c9d40f3aa552a9974cd55ac510cb3" title="Initialisierung des LCDs. " alt="" coords="359,107,430,133"/>
+<area shape="rect" id="node6" href="$_projek_lingg_steiner_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main. " alt="" coords="509,81,560,108"/>
+</map>
